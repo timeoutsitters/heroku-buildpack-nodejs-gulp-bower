@@ -1,6 +1,11 @@
 Heroku Buildpack for node/bower/gulp
 ====================================
 
+IMPORTANT: This is a fork of https://github.com/krry/heroku-buildpack-nodejs-gulp-bower.git. Heroku's s3pository was deprecated and no longers exists... and this fork was a bandaid to get things fixed quickly.
+
+DO NOT USE THIS BUILDPACK.... it will not be maintained. 
+
+
 Setup
 -----
 1. Install the [Heroku Toolbelt](https://toolbelt.heroku.com/).

@@ -1,4 +1,3 @@
-set -x
 
 error() {
   echo " !     $*" >&2
